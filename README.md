@@ -1,3 +1,5 @@
 # PrecisionXScripter
-a tool to script PrecisionX .PGM files, a format that is used for the ouput of Robotic Shakers in the biotech industry.
+A java project handler of .PGM files through xml, which are used for the input/ouput of Robotic Shakers in the biotech industry.
+
+lisa package - a demo use of the precissionX Package.
 
